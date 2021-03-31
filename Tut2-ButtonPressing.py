@@ -15,8 +15,6 @@ def tog() :
 		window.configure(bg = 'blue')
 # the window will come blank, but if you press "Color Switch", it will turn blue
 
-# press it again, it turns red
-
 btn_tog = Button(window , text = 'Color Switch!' , command = tog)
 # press da button!
 
