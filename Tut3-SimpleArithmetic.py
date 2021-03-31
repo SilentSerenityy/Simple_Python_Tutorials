@@ -1,6 +1,6 @@
 x = 7
 y = 9
-# two random numbers that me likes
+# two random numbers that I like
 
 print('Addition:\t\t', x, '+', y, '=', x + y)
 # add : x + y
