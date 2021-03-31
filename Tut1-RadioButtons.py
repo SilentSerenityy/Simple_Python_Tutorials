@@ -18,9 +18,6 @@ radio_3 = Radiobutton(frame, text = '🟡 Yellow', \
 	variable = book, value = '🟡 a sunny yellow')
 # the buttons to pick from
 
-radio_1.select()
-# this button will be pre-selected upon running
-
 def dialog() :
 	box.showinfo('Your favorite color...', \
 	'Your favorite color is... \n' + book.get())
