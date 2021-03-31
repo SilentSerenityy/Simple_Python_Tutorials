@@ -22,7 +22,7 @@ radio_1.select()
 # this button will be pre-selected upon running
 
 def dialog() :
-	box.showinfo('Your favorite color...' , \
+	box.showinfo('Your favorite color...', \
 	'Your favorite color is... \n' + book.get())
 # pressing the button (code on line 29) shows this pop-up
 
