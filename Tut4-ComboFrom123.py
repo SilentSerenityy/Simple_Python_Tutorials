@@ -73,6 +73,6 @@ ra2.pack(side = BOTTOM)
 ra3.pack(side = BOTTOM)
 # defines the positions of the buttons
 
-frame.pack(padx = 160, pady = 30)
+frame.pack(padx = 170, pady = 10)
 window.mainloop()
 # defines the window's main dimensions and runs it
